@@ -1,1 +1,2 @@
 # degree_game
+# heredity
